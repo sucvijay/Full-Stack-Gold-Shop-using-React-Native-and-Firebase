@@ -46,7 +46,7 @@ To run the Gold Store app locally, follow these steps:
 1. Clone this repository: `git clone https://github.com/sucvijay/Full-Stack-Gold-Shop-using-React-Native-and-Firebase.git`
 2. Navigate to the project directory: `cd Full-Stack-Gold-Shop-using-React-Native-and-Firebase`
 3. Install dependencies: `npm install` (or `yarn install`)
-4. Install dependencies: `npm start` (or `yarn`)
+4. Start the project: `npm start` (or `yarn`)
 
 ## Author
 
