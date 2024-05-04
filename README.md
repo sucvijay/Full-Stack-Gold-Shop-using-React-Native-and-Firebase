@@ -1,4 +1,4 @@
-# Full-Stack-Gold-Shop-using-React-Native-and-Firebase
+# Gold Store
 
 Gold Store is a full stack application that allows users to view the current gold price, explore various gold models, check their availability, and make bookings. The app is built using React Native for the front-end and Firebase for the back-end.
 
@@ -15,40 +15,32 @@ Here are some screenshots of the Gold Store app:
 
 ### Home Screen
 
-![Home Screen](Photos/home.png)
-
-### Gold Models
-
-![Gold Models](Photos/gold.png)
+<img src="Photos/home.png" width="300" height="600" alt="Home Screen">
 
 ### Gold Details
 
-![Gold Details](Photos/details.png)
+<img src="Photos/details.png" width="300" height="600" alt="Gold Details">
 
+### Gold Models
+
+<img src="Photos/gold.png" width="300" height="600" alt="Gold Models">
 
 ### Order Confirmation
 
-![Order Confirmation](Photos/orderconf.png)
+<img src="Photos/orderconf.png" width="300" height="600" alt="Order Confirmation">
 
 ### Splash Screen
 
-![Splash Screen](Photos/splash.png)
+<img src="Photos/splash.png" width="300" height="600" alt="Splash Screen">
 
 ## Technologies Used
 
 - **Front-end:** React Native
 - **Back-end:** Firebase
-
+- **Deployment:** TBD (e.g., Google Play Store, App Store)
 
 ## Installation
 
 To run the Gold Store app locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/sucvijay/Full-Stack-Gold-Shop-using-React-Native-and-Firebase.git`
-2. Navigate to the project directory: `cd Full-Stack-Gold-Shop-using-React-Native-and-Firebase`
-3. Install dependencies: `npm install` (or `yarn install`)
-4. Run the app by using: `npm start` (or `yarn `)
-
-## Author
-
-* Vijay S U (sucvijay)
+1. Clone the repository:
